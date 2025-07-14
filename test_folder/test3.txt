@@ -6,8 +6,5 @@ hello world C++
 hello world I'm SpringCloud
 helllo Today is the best for my life
 hello I'm FIXER
-<<<<<<< HEAD
 hello I'm SDS SW 
-=======
-hello I'm KAIST
->>>>>>> 7c37405e94587e87b0dc322389ced29d105c1644
+hello I'm javascript 
