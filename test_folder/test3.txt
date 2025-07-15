@@ -15,3 +15,5 @@ hello SUPERNOVA
 hello SPIDERMAN
 hello TWICE
 hello NMIX
+hello aespa
+hello NMIX
