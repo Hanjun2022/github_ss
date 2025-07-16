@@ -15,6 +15,4 @@ hello SUPERNOVA
 hello SPIDERMAN
 hello TWICE
 hello NMIX
-hello ITZY aespa
-hello IDLE
-
+hello karina
